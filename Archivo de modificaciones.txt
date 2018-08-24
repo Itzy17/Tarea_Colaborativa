@@ -1,3 +1,8 @@
 Este archivo ser‡ utilizado para emular modificaciones en el proyecto colaborativo.
 Itzel_Sanroman.
+Oscar_Flores.
 
+El repositorio actualizado puede encontrarse en las url's: 
+
+https://github.com/Itzy17/Tarea_Colaborativa
+https://github.com/OscarFlores-IFi/Tarea_Colaborativa
